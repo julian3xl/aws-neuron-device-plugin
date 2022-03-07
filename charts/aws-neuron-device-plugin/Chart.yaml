@@ -1,0 +1,19 @@
+annotations:
+  category: Infrastructure
+apiVersion: v2
+appVersion: 1.7.7.0
+description: A Helm chart for the aws-neuron-device-plugin on Kubernetes
+engine: gotpl
+home: https://github.com/julian3xl/aws-neuron-device-plugin
+icon: https://awsdocs-neuron.readthedocs-hosted.com/en/latest/_static/NeuronStandalone_white_xsmall.png
+keywords:
+  - aws
+  - neuron
+  - device-plugin
+maintainers:
+  - email: julian3xl@gmail.com
+    name: julian3xl
+name: aws-neuron-device-plugin
+sources:
+  - https://github.com/julian3xl/aws-neuron-device-plugin
+version: 1.0.1
