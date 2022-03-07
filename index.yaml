@@ -1,0 +1,26 @@
+apiVersion: v1
+entries:
+  aws-neuron-device-plugin:
+  - annotations:
+      category: Infrastructure
+    apiVersion: v2
+    appVersion: 1.7.7.0
+    created: "2022-03-07T14:29:50.177999103Z"
+    description: A Helm chart for the aws-neuron-device-plugin on Kubernetes
+    digest: 6177efd1b826ac937c8f89957a0d5465ceb28ecae53bd0124149f813ad2bda23
+    home: https://github.com/julian3xl/aws-neuron-device-plugin
+    icon: https://awsdocs-neuron.readthedocs-hosted.com/en/latest/_static/NeuronStandalone_white_xsmall.png
+    keywords:
+    - aws
+    - neuron
+    - device-plugin
+    maintainers:
+    - email: julian3xl@gmail.com
+      name: julian3xl
+    name: aws-neuron-device-plugin
+    sources:
+    - https://github.com/julian3xl/aws-neuron-device-plugin
+    urls:
+    - https://github.com/julian3xl/aws-neuron-device-plugin/releases/download/aws-neuron-device-plugin-1.0.1/aws-neuron-device-plugin-1.0.1.tgz
+    version: 1.0.1
+generated: "2022-03-07T14:29:50.046819207Z"
